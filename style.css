@@ -1,0 +1,48 @@
+.big{
+    font-size:600%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:cyan;
+    background-color:crimson;
+}
+body{
+    background-image: url(image.png);
+    text-align:center;
+}
+p{
+    font-size:500%;
+    color:purple;
+    font-family: fantasy;
+}
+h2{
+    font-size:450%;
+    color: gold;
+    background-color:chocolate;
+}
+.chocolateBar{
+    background-color:chocolate;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    width: 400px;
+    height: 500px;
+    box-sizing: border-box;
+}
+.choc{
+    color:brown;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+}
+.kitkat{
+    background-color:chocolate;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    width: 100px;
+    height: 500px;
+    box-sizing: border-box;
+}
+.kaitkt{
+    font-size:150%;
+    color:red;background-color: aliceblue;
+    
+}
